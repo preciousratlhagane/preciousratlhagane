@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ![preciousratlhagane's Stats](https://github-readme-stats.vercel.app/api?username=preciousratlhagane&theme=jolly&show_icons=true&hide_border=false&count_private=true)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=preciousratlhagane&show_icons=true&locale=en&layout=compact" alt="preciousratlhagane" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=preciousratlhagane&show_icons=true&locale=en" alt="preciousratlhagane" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preciousratlhagane&" alt="preciousratlhagane" /></p>
