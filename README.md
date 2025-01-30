@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=preciousratlhagane&show_icons=true&locale=en" alt="preciousratlhagane" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preciousratlhagane&" alt="preciousratlhagane" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preciousratlhagane" alt="preciousratlhagane" /></a></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=preciousratlhagane" alt="preciousratlhagane" /></p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/preciousratlhagane) 
