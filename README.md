@@ -37,3 +37,6 @@ Here are some ideas to get you started:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=preciousratlhagane)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/preciousratlhagane) 
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=preciousratlhagane&theme=shadow-purple&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
