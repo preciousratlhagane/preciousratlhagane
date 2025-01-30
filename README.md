@@ -31,5 +31,9 @@ Here are some ideas to get you started:
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preciousratlhagane" alt="preciousratlhagane" /></a></p>
 <p><img align="center" src="https://streak-stats.demolab.com/?user=preciousratlhagane" alt="preciousratlhagane" /></p>
 
+
+
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=preciousratlhagane)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/preciousratlhagane) 
