@@ -22,3 +22,14 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=preciousratlhagane&show_icons=true&locale=en" alt="preciousratlhagane" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preciousratlhagane&" alt="preciousratlhagane" /></p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=preciousratlhagane&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=preciousratlhagane&theme=material-palenight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=preciousratlhagane&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Precious Ratlhagane) 
