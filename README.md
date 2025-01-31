@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there, I'm Precious 👋
+A Junior Data Scientist/Data Analyst
 <!--
 **preciousratlhagane/preciousratlhagane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
