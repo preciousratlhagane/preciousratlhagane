@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=preciousratlhagane&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true" height="200px" align="left"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preciousratlhagane&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="200px" align="right" width="100px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=preciousratlhagane&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true" height="200px" align="left"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preciousratlhagane&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="200px" align="right" width="400px"/><br/>
  
 
 
