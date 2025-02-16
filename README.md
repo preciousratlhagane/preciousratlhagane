@@ -1,7 +1,7 @@
 ## Hi there, I'm Precious Ratlhagane👋
 🖥️ Data Scientist | Data Analyst 
 
-🚀 Passionate about real-world ML solutions
+🚀 Passionate about real-world ML solutions<br/>
 📍 South Africa 🇿🇦 | 📩 Reach me at [Email](mailto:precious_555@live.com)  
 <!--
 **preciousratlhagane/preciousratlhagane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,6 +44,11 @@ Here are some ideas to get you started:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preciousratlhagane&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=preciousratlhagane&theme=material-palenight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+
+# 📽️ Featured Projects:
+
 
 
 ## 🌐 Socials:
