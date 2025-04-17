@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 - **Key Highlights**: Web scraping, Data visualization, Market analysis
 
 
-## 2. [**Predictin Car Insurance Premiums using Machine Learning(2024)**](https://github.com/preciousratlhagane/car-insurance-predictor-using-ml)
+## 2. [**Predicting Car Insurance Premiums using Machine Learning(2024)**](https://github.com/preciousratlhagane/car-insurance-predictor-using-ml)
 - **Description**: A machine learning model that predicts car insurance premiums using a variety of customer demographics such as age, driving history, and vehicle details. 
 - **Tech Stack**: Python, scikit-learn, Streamlit
 - **Key Highlights**: Predictive modelling, Feature engineering,  Model deployment with Streamlit
