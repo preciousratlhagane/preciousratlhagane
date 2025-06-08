@@ -49,9 +49,16 @@ Here are some ideas to get you started:
 
 # 📽️ Featured Projects:
 
+<<<<<<< HEAD
 ## 1. [**Predicting Car Insurance Premiums using Machine Learning (2025)**](https://github.com/preciousratlhagane/car-insurance-predictor-using-ml)
 - **Description**: 
 Built a machine learning model to predict car insurance premiums based on customer demographics and vehicle data. Deployed a user-friendly interface using Streamlit. 
+=======
+## 1. [**South African Property Market Analysis in the Capital Cities (2025)**](https://github.com/preciousratlhagane/south-african-property-market-analysis)
+- **Description**: This project involves web scraping property listings to analyse South African property market trends. The data was used to build a Power BI dashboard to visualise market dynamics, affordability trends, and investment opportunities.
+- **Tech Stack**: Python, BeautifulSoup, Power BI
+- **Key Highlights**: Web scraping, Data visualisation, Market analysis
+>>>>>>> 1f25f105c8c931225d62801f6038beba67c057f0
 
 - **Tech Stack**: Python, scikit-learn, Streamlit
 - **Key Highlights**: Predictive modelling, Feature engineering, Streamlit app deployment
