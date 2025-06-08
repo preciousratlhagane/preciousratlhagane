@@ -25,8 +25,11 @@ Here are some ideas to get you started:
 ## 📝 Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white) 
 
+
+
 ## 📚 Libraries & Frameworks:
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8A2BE2?style=for-the-badge) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
 
 
 ## 🔧 Tools & Platforms:
@@ -38,10 +41,13 @@ Here are some ideas to get you started:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
+
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=preciousratlhagane&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)
 
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preciousratlhagane&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=preciousratlhagane&theme=material-palenight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
@@ -49,19 +55,13 @@ Here are some ideas to get you started:
 
 # 📽️ Featured Projects:
 
-<<<<<<< HEAD
 ## 1. [**Predicting Car Insurance Premiums using Machine Learning (2025)**](https://github.com/preciousratlhagane/car-insurance-predictor-using-ml)
-- **Description**: 
+- **Description:**
 Built a machine learning model to predict car insurance premiums based on customer demographics and vehicle data. Deployed a user-friendly interface using Streamlit. 
-=======
-## 1. [**South African Property Market Analysis in the Capital Cities (2025)**](https://github.com/preciousratlhagane/south-african-property-market-analysis)
-- **Description**: This project involves web scraping property listings to analyse South African property market trends. The data was used to build a Power BI dashboard to visualise market dynamics, affordability trends, and investment opportunities.
-- **Tech Stack**: Python, BeautifulSoup, Power BI
-- **Key Highlights**: Web scraping, Data visualisation, Market analysis
->>>>>>> 1f25f105c8c931225d62801f6038beba67c057f0
 
-- **Tech Stack**: Python, scikit-learn, Streamlit
-- **Key Highlights**: Predictive modelling, Feature engineering, Streamlit app deployment
+- **Tech Stack:** Python, scikit-learn, Streamlit
+- **Key Highlights:** Predictive modelling, Feature engineering, Streamlit app deployment
+
 
 
 ## 🌐 Socials:
