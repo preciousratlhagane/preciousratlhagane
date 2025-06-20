@@ -43,24 +43,16 @@ Here are some ideas to get you started:
 
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=preciousratlhagane&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=preciousratlhagane&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preciousratlhagane&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=preciousratlhagane&theme=shades-of-purple&hide_border=false)<br/>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=preciousratlhagane&theme=material-palenight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preciousratlhagane&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-
-# 📽️ Featured Projects:
-
-## 1. [**Predicting Car Insurance Premiums using Machine Learning (2025)**](https://github.com/preciousratlhagane/car-insurance-predictor-using-ml)
-- **Description:**
-Built a machine learning model to predict car insurance premiums based on customer demographics and vehicle data. Deployed a user-friendly interface using Streamlit. 
-
-- **Tech Stack:** Python, scikit-learn, Streamlit
-- **Key Highlights:** Predictive modelling, Feature engineering, Streamlit app deployment
+![Top Contributed Repository](https://github-contributor-stats.vercel.app/api?username=preciousratlhagane&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
 
 
 
