@@ -49,10 +49,10 @@ Here are some ideas to get you started:
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=preciousratlhagane&theme=shades-of-purple&hide_border=false)<br/>
 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preciousratlhagane&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preciousratlhagane&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 
-![Top Contributed Repository](https://github-contributor-stats.vercel.app/api?username=preciousratlhagane&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
+![Top Contributed Repository](https://github-contributor-stats.vercel.app/api?username=preciousratlhagane&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)<br/>
 
 
 
